@@ -8,7 +8,7 @@ This serves as a location I can share my newly-created PowerShell scripts. As I 
 
 ---
 
-### new-class
+## `new-class`
 
 The `new-class` file contains the function `new-class`. This function is used to create a new csharp.cs file with this basic starter code:
 
@@ -40,3 +40,7 @@ namespace YourNamespace
 or 
 
 `new-class MyFile`
+
+#### How to Use
+
+To use this function throughout your machine, copy and paste this function into your $PROFILE file. This can be opened by running `notepad $PROFILE`. 
