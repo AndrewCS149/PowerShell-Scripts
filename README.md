@@ -38,13 +38,13 @@ namespace YourNamespace
 }
 ```
 
-#### Parameters
+#### Parameters:
 
-**Required**
+Required
 
 `$name` : The name of the .cs file.
 
-**Optional**
+Optional
 
 `$edit` : Switch statement to determine if file should be opened (with VIM) for editing or not after the file is created.
 
@@ -66,13 +66,13 @@ The `new-console` file contains the function `new-console`. This file will compl
 - create a new solution in the folder
 - add the .csproj file to the solution
 
-#### Parameters
+#### Parameters:
 
-**Required**
+Required
 
 `$name` : The name of the console app.
 
-**Optional**
+Optional
 
 None.
 
@@ -84,13 +84,13 @@ None.
 
 This function streamlines the 'add commit push' process for GIT. When used, it will prompt for a commit message and the desired branch to push to. 
 
-#### Parameters
+#### Parameters:
 
-**Required**
+Required
 
 None.
 
-**Optional**
+Optional
 
 None.
 
