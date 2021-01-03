@@ -23,7 +23,7 @@ This code snippet was derived from Mathias Jessen on [Stack OverFlow:](https://s
 
 ---
 ## FUNCTIONS:
----
+
 ## `new-class`
 
 The `new-class` file contains the function `new-class`. This function is used to create a new csharp.cs file with this basic starter code:
