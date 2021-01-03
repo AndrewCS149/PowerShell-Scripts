@@ -22,7 +22,8 @@ Get-ChildItem -Path $Path -Filter *.ps1 |ForEach-Object {
 This code snippet was derived from Mathias Jessen on [Stack OverFlow:](https://stackoverflow.com/questions/38469234/how-to-source-all-powershell-scripts-from-a-directory)
 
 ---
-
+## FUNCTIONS:
+---
 ## `new-class`
 
 The `new-class` file contains the function `new-class`. This function is used to create a new csharp.cs file with this basic starter code:
@@ -56,6 +57,8 @@ or
 
 `new-class MyFile`
 
+---
+
 ## `new-console`
 
 The `new-console` file contains the function `new-console`. This file will complete the following steps:
@@ -80,6 +83,7 @@ None.
 
 `new-console ConsoleName`
 
+---
 ## `acp`
 
 This function streamlines the 'add commit push' process for GIT. When used, it will prompt for a commit message and the desired branch to push to. 
