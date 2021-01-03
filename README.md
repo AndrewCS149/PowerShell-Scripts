@@ -2,7 +2,9 @@
 
 ## Description
 
-This serves as a location I can share my newly-created PowerShell scripts. As I create more scripts, I will update the README with descriptions of each new file. 
+This serves as a location I can share my newly-created PowerShell scripts. The majority of these scripts are for command line use only. 
+
+Be sure to check back as I will update this with more functions as I create them.
 
 ---
 
