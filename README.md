@@ -56,7 +56,6 @@ or
 
 `new-class MyFile`
 
-
 ## `new-console`
 
 The `new-console` file contains the function `new-console`. This file will complete the following steps:
@@ -80,3 +79,21 @@ None.
 #### Example:
 
 `new-console ConsoleName`
+
+## `acp`
+
+This function streamlines the 'add commit push' process for GIT. When used, it will prompt for a commit message and the desired branch to push to. 
+
+#### Parameters
+
+**Required**
+
+None.
+
+**Optional**
+
+None.
+
+#### Example:
+
+`acp`
