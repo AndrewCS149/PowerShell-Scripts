@@ -18,9 +18,6 @@ function new-console {
   # add .csproj file to solution
   dotnet sln add .\$name\"$name".csproj
 
-  # open solution in visual studio
-  Invoke-Item "$(Get-Item .)\$name.sln"
-
   # cd into project folder
   cd .\$name
 }

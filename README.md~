@@ -70,7 +70,6 @@ The `new-console` file contains the function `new-console`. This file will compl
 - create a new dotnet console app with folder name
 - create a new solution in the folder
 - add the .csproj file to the solution
-- open solution in visual studio
 
 #### Parameters:
 
